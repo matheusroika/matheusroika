@@ -1,5 +1,5 @@
 ## Hi, I’m Matheus Roika 👋
-### Designer & student developer
+### Developer & graduated in design
  
 * <img alt="React" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> I'm currently focused on learning React
 * :black_nib: You can see some of my design projects at [Behance](https://www.behance.net/matheusroika)
