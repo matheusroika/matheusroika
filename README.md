@@ -1,12 +1,11 @@
 ## Hi, I’m Matheus Roika 👋
 ### Developer & graduated in design
- 
+
 * <img alt="Jest" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" /> I'm currently focused on learning TDD
 * :computer: I like to make projects using <img alt="Typescript" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> Typescript, <img alt="React" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React, <img alt="Next" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> Next and <img alt="Node" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> Node
 * :black_nib: You can see some of my design projects at [Behance](https://www.behance.net/matheusroika)
 * :e-mail: You can reach me at [matheus@roika.com.br](mailto:matheus@roika.com.br)
 <br/>
- <br/>
  
 ![Matheus Roika GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusroika&show_icons=true&theme=graywhite)<br/>
  <br/>
