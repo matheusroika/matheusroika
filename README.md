@@ -1,7 +1,7 @@
 ## Hi, I’m Matheus Roika 👋
 ### Developer & graduated in design
 
-* :briefcase: I'm a Fullstack Developer at [Pixelbreeders](https://pixelbreeders.com/)
+* :briefcase: I'm a Fullstack Developer at [Pixel Breeders](https://pixelbreeders.com/)
 * :computer: I like to make projects using <img alt="Typescript" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> Typescript, <img alt="React" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React, <img alt="Next" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> Next, <img alt="Node" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> Node, <img alt="Python" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> Python and <img alt="Django" width=15 height=15  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" /> Django.
 * :e-mail: You can reach me at [matheus@roika.com.br](mailto:matheus@roika.com.br)
 <br/>
